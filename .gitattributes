@@ -1,0 +1,3 @@
+*.svg text
+*.svg diff=svg
+docs/images/*.svg merge=union
