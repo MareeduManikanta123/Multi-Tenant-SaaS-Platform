@@ -10,6 +10,9 @@ A complete full-stack SaaS platform with multi-tenancy, user management, project
 ### Database ERD
 ![Database ERD](docs/images/database-erd.png)
 
+### Data Flow Diagram
+![Data Flow](docs/images/system-flow.png)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
