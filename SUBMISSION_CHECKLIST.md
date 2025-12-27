@@ -271,13 +271,13 @@
   - Success and error responses
   - Example usage
 
-#### G. Architecture Diagrams ⚠️
-- ⚠️ **docs/images/system-architecture.png**: NOT YET CREATED
-  - **ACTION REQUIRED**: Create high-level system architecture diagram
-  - Should include: Frontend → Backend → Database flow, Docker containers, networks
+#### G. Architecture Diagrams ✅
+- ✅ **docs/images/system-architecture.svg**: CREATED
+  - High-level system architecture diagram
+  - Includes: Frontend → Backend → Database flow, Docker containers, networks
   
-- ⚠️ **docs/images/database-erd.png**: NOT YET CREATED
-  - **ACTION REQUIRED**: Create Entity Relationship Diagram
+- ✅ **docs/images/database-erd.svg**: CREATED
+  - Entity Relationship Diagram showing all tables and relationships
   - Should show: All 5 tables, relationships, primary keys, foreign keys
 
 **Recommended Tools for Diagrams**:
@@ -381,8 +381,8 @@
 - ✅ docs/architecture.md (complete API endpoint list)
 - ✅ docs/technical-spec.md (with Docker instructions)
 - ✅ docs/API.md (all 19 endpoints documented)
-- ⚠️ docs/images/system-architecture.png (MISSING)
-- ⚠️ docs/images/database-erd.png (MISSING)
+- ✅ docs/images/system-architecture.svg (CREATED)
+- ✅ docs/images/database-erd.svg (CREATED)
 
 ### Submission Files ✅
 - ✅ submission.json with all credentials and test data
@@ -410,8 +410,8 @@
    - Get public repository URL
 
 2. **Create Architecture Diagrams** (2 files)
-   - System architecture diagram → `docs/images/system-architecture.png`
-   - Database ERD → `docs/images/database-erd.png`
+   - System architecture diagram → `docs/images/system-architecture.svg`
+   - Database ERD → `docs/images/database-erd.svg`
 
 3. **Create Demo Video**
    - Record 5-12 minute demo video
